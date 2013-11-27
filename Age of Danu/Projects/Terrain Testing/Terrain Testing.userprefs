@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\sphereSpawn.cs">
+    <Files>
+      <File FileName="Temp\Compiled-TerrBumpFirstPass.shader" Line="1" Column="1" />
+      <File FileName="Assets\scripts\sphereSpawn.cs" Line="20" Column="51" />
+      <File FileName="..\80Metres deep(upgraded)\Unity project folder\Assets\Scripts\Diver.cs" Line="105" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
